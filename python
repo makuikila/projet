@@ -1,0 +1,8 @@
+def main(x, y):
+  print("calcul de la moyenne")
+  return (x+y)/2
+
+x=5
+y=9
+moyenne=main(x,y)
+print(moyenne)
